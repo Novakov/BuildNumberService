@@ -84,6 +84,7 @@
     <Content Include="App_Data\keep" />
     <Content Include="Index.html" />
     <Content Include="packages.config" />
+    <None Include="Properties\PublishProfiles\Package.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
